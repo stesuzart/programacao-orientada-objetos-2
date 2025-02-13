@@ -1,14 +1,15 @@
-package com.ada;
+package com.ada.aula1;
 
-import com.ada.exemplo.Aviao;
-import com.ada.exemplo.Barco;
+import com.ada.aula1.exemplo.Aviao;
+import com.ada.aula1.exemplo.Barco;
+import com.ada.aula1.exemplo.Empregado;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Main {
+public class Aula1Main {
     public static void main(String[] args) {
 
         // classe empregado implementando interface

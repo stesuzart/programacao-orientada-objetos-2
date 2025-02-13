@@ -1,6 +1,6 @@
-package com.ada.marcacao;
+package com.ada.aula1.marcacao;
 
-public class Pardal implements Ave {
+public class Tucano implements Ave {
     private int id;
     private String nome;
     private String nacionalidade;

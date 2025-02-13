@@ -1,4 +1,4 @@
-package com.ada.exemplo;
+package com.ada.aula1.exemplo;
 
 public class Barco extends Veiculo implements Navegavel{
 

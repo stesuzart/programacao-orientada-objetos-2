@@ -1,4 +1,4 @@
-package com.ada;
+package com.ada.aula1.exemplo;
 
 import java.math.BigDecimal;
 

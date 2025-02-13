@@ -1,4 +1,4 @@
-package com.ada.exemplo;
+package com.ada.aula1.exemplo;
 
 public class Aviao extends Veiculo implements Voavel{
     public Aviao(String nome) {
